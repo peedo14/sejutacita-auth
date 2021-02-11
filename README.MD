@@ -6,3 +6,15 @@ Database: MongoDB<br>
 ADMIN<br>
 Username: admin<br>
 Password: admin<br>
+
+# Quickstart
+
+**installation**
+```bash
+npm install
+```
+
+**start application**
+```bash
+nodemon server.js
+```
