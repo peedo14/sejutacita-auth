@@ -9,6 +9,8 @@ Password: admin<br>
 
 # Quickstart
 
+Buat file .env yang di copy dari .env.template
+
 **installation**
 ```bash
 npm install
